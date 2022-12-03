@@ -1,0 +1,7 @@
+# FETCH DEMO
+
+### Description
+Demoing fetch to get and create data and add it to the DOM
+
+### How to Run
+Run `npm install`. Once complete run `npm run dev` to start the backend server and in another terminal run `npx serve .` to run the frontend.
